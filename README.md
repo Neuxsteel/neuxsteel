@@ -1,4 +1,4 @@
-### ![imagén](https://github.com/neuxsteel/neuxsteel/blob/main/leviCat.png) Welcome, I'm Neuxsteel 👋
+### ![catLevi](https://github.com/neuxsteel/neuxsteel/blob/main/leviCatv0.1.png) Welcome, I'm Neuxsteel 👋
 ---
 > I'm currently student of civil computer engineering
 
