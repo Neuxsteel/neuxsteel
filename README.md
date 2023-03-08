@@ -11,9 +11,9 @@
 [![Java](https://img.shields.io/badge/Java-CB3234?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)]()
 ---
 ## ![catCosmus](https://github.com/neuxsteel/neuxsteel/blob/main/cosmusCatv2.png) Social Networks:
-[![Discord](https://img.shields.io/badge/Discord-neuxsteel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]()
-[![Twitter](https://img.shields.io/badge/Twitter-@neuxsteel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)]()
-[![Instagram](https://img.shields.io/badge/Instagram-@neuxsteel__-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]()
+[![Discord](https://img.shields.io/badge/Discord-neuxsteel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/uUm9zpFrzU)
+[![Twitter](https://img.shields.io/badge/Twitter-@neuxsteel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/neuxsteel)
+[![Instagram](https://img.shields.io/badge/Instagram-@neuxsteel__-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/neuxsteel_/)
 ---
 
 <!--
