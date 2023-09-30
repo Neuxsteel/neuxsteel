@@ -9,6 +9,8 @@
 [![Django](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-CB3234?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-1DA1F2?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Postgresql](https://img.shields.io/badge/Postgresql-1DA1F2?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 ---
 ## ![catCosmus](https://github.com/neuxsteel/neuxsteel/blob/main/cosmusCatv2.png) Social Networks:
 [![Discord](https://img.shields.io/badge/Discord-neuxsteel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/uUm9zpFrzU)
