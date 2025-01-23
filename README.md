@@ -1,4 +1,4 @@
-# ![catLevi](https://github.com/neuxsteel/neuxsteel/blob/main/leviCatv3.png) Welcome, I'm Neuxsteel 👋
+# ![catLevi](https://github.com/neuxsteel/neuxsteel/blob/main/leviCatv3.png) Welcome, I'm John Medel 👋
 ---
 > I am currently a student pursuing a degree in Civil Computer Engineering, where I am gaining a comprehensive understanding of both civil engineering principles and advanced computational techniques. My studies focus on integrating engineering design with computer science to solve complex problems and optimize construction processes. Additionally, I am learning about frameworks for web and mobile development and studying data science, with the goal of applying artificial intelligence in the near future.
 # ![bannersteel](https://github.com/neuxsteel/neuxsteel/blob/main/bannersteel.png)
